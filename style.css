@@ -551,3 +551,11 @@ img {
     align-self: flex-start;
   }
 }
+
+.copyright {
+  text-align: center;
+  font-size: 13px;
+  color: #888;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
